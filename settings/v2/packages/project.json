@@ -1,0 +1,14 @@
+{
+  "__version__": "1.0.4",
+  "custom_joint_texture_layouts": [],
+  "script": {
+    "previewBrowserslistConfigFile": "project://"
+  },
+  "general": {
+    "designResolution": {
+      "width": 640,
+      "height": 960,
+      "fitWidth": false
+    }
+  }
+}
